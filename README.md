@@ -1,8 +1,8 @@
-# AlwaysOnTopWindow
+# AlwaysOnTopWindow🕴️
 
 A lightweight Swift library to create a custom `UIWindow` that always stays on top of the main application window. Ideal for displaying floating views, persistent overlays, or custom alerts with dynamic size, position, and SwiftUI integration.
 
-## Features
+## Features✨
 
 - **Always-on-top behavior:** Ensures the window stays visible above other app windows.
 - **Dynamic content:** Supports any SwiftUI `View` for seamless integration.
@@ -10,12 +10,12 @@ A lightweight Swift library to create a custom `UIWindow` that always stays on t
 - **Clear background support:** Perfect for overlays and transparent views.
 - **SwiftUI-first design:** Built with modern SwiftUI integration in mind.
 
-## Requirements
+## 📋
 
 - iOS 13.0+
 - Swift 6.0+
 
-## Installation
+## Installation🛠️
 
 ### Swift Package Manager (SPM)
 
@@ -24,7 +24,7 @@ A lightweight Swift library to create a custom `UIWindow` that always stays on t
 3. Enter the repository URL: `https://github.com/mash3l777/AlwaysOnTopWindow`
 4. Select the package and add it to your project.
 
-## Usage
+## Usage📖
 
 ### 1. Create an `AlwaysOnTopWindow`
 
@@ -85,12 +85,12 @@ alwaysOnTopWindow.show()
 alwaysOnTopWindow.hide()
 ```
 
-## Contributing
+## Contributing🤝
 
 Contributions are welcome! Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to get started.
 
 
-## License
+## License📜
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
